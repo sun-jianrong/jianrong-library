@@ -207,4 +207,5 @@ Sun, J.R. 2009, ‘Re-enhancement of quality assurance for China’s efforts in 
 
 
 
+
 *本文节选自2017年由Elsevier Publishing出版社出版的书籍《The Rise of Quality Assurance in Asian Higher Education》*
