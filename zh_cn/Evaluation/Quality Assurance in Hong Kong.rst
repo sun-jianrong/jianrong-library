@@ -202,3 +202,9 @@ Hofstede, G., & Hofstede, G. J. (2005). Cultures and organizations: Software of 
 Sun, J. R. (2008). Categorization in evaluation: Purpose for evaluation & methodology. Liaoning Education Research, 11, 33–36.
 
 Sun, J.R. 2009, ‘Re-enhancement of quality assurance for China’s efforts in globalizing its higher education’. Paper presented at the “China Goes Global” conference, the Harvard Kennedy School, Harvard University, and College of Education, Peking University, Boston, MA.
+
+
+
+
+
+*本文节选自2017年由Elsevier Publishing出版社出版的书籍《The Rise of Quality Assurance in Asian Higher Education》*
