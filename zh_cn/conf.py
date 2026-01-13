@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "EvoLayer Documentation"
-copyright = "2026, EvoLayer team"
-author = "EvoLayer team"
+project = "Sunny Library of Linguistics Research"
+copyright = "2026, Sunny Library team"
+author = "Sunny Library team"
 
 
 # -- General configuration ---------------------------------------------------
