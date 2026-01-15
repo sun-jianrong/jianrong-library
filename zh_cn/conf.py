@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Sunny Library of Linguistics Research"
+project = "Sunny Library"
 copyright = "2026, Sunny Library team"
 author = "Sunny Library team"
 
