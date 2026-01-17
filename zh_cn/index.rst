@@ -21,6 +21,8 @@ Contents
    :maxdepth: 1
    :caption: 外语教学与研究
 
+
+   Languages/计算机在語言教学与研究中的应用
    Languages/ESP在培训部教学中的应用
    Languages/英国的外语教育依赖私立中学
 

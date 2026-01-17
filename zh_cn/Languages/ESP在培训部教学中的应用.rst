@@ -88,8 +88,8 @@ ESP教学不是以某一本或两本教材为主，而是有十几种甚至几�
 
 在ESP教学中，教材在课堂上的使用与本科外语教学不一样，其特点是「泛」而不「精」。课堂上很少花费很大的精力去就某些词或词组的用法进行详细的讲解，而是充分利用课本中提供的情景，让学生进行模拟语言交际的练习。因为ESP教学要求学生懂得今后如何在具体场合下应用或交际，而不要求他们全部掌握课堂上所教的东西。
 
-> It is important that students feel that they are involved in a communicative activity and not just learning ‘usage’.  
-> （要使学生感到他们确实是置身于一个交流的活动中，而不仅仅是学习词汇的用法，这一点是很重要的。）④
+    It is important that students feel that they are involved in a communicative activity and not just learning ‘usage’.  
+    （要使学生感到他们确实是置身于一个交流的活动中，而不仅仅是学习词汇的用法，这一点是很重要的。）④
 
 为达到预期的目的，我们采用以下几方面的措施：
 
@@ -105,8 +105,8 @@ ESP教学不是以某一本或两本教材为主，而是有十几种甚至几�
      - Note-taking  
 
    这些活动好象是在做游戏，但其中包括了许多实际生活中的模拟情景。  
-   > 「The student of ESP is usually studying in order to perform a role.」  
-   > （参加ESP课程的学生通常学习是为了能扮演一个角色。）  
+       The student of ESP is usually studying in order to perform a role.」  
+      （参加ESP课程的学生通常学习是为了能扮演一个角色。）  
 
    这些情景在他们将来出国后是会经常碰到的，现在进行的在某种程度上来讲，则是一种「rehearsal」（预演）。
 
