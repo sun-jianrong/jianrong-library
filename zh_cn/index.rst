@@ -21,6 +21,7 @@ Contents
    :caption: 外语教学与研究
 
    Languages/ESP在培训部教学中的应用
+   Languages/英国的外语教育依赖私立中学
 
 
 .. toctree::
