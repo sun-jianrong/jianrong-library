@@ -6,7 +6,7 @@ Sunny Library
 担任美国高等教育中北部区域认证委员会(HLC)评估专家、香港学术及职业资历评审局评审专家，参与中美港澳数十所高校的认证与评估工作，
 在高等教育质量管理领域具有丰富的国际经验。
 
-*本站为孙建荣教授个人数字图书馆,收录语言学研究相关文章。*
+*本站为孙建荣教授个人数字图书馆,收录相关研究相关文章。*
 
 
 Sunny Library
@@ -25,4 +25,4 @@ accreditation processes for dozens of institutions across China, the United
 States, Hong Kong, and Macau, bringing extensive international expertise in
 higher education quality management.
 
-*This is Professor Sun Jianrong's personal digital library, featuring articles related to linguistics research.*
+*This is Professor Sun Jianrong's personal digital library, featuring relevant research articles.*
