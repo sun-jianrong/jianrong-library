@@ -15,6 +15,7 @@ Contents
 
    Pragmatics/文化认同中的融合与分歧：语言学视角的反思
    Pragmatics/变动中的语用学：研究广度与务实性
+   Pragmatics/语用学及其方法论
 
 .. toctree::
    :maxdepth: 1
