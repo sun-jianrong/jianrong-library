@@ -289,13 +289,21 @@ Searle 将适恰条件分成四类：
 **主要参考书目**
 
 Austin, J. L. (1962), *How To Do Things With Words*, Oxford, Clarendon Press  
+
 Crystal, D. (1980), *A First Dictionary of Linguistics and Phonetics*, Deutsch  
+
 Grice, H. P. (1957), “Meaning”, *Philosophical Review*, 67  
-Grice, H. P. (1967), “Logic and conversation” in P. Cole & J. L. Morgan (eds), *Syntax and Semantics: Speech Acts*, New York, Academic Press  
+
+Grice, H. P. (1967), “Logic and conversation” in P. Cole & J. L. Morgan (eds), *Syntax and Semantics: Speech Acts*, New York, Academic Press 
+
 Hymes, D. H. (1972), “Models of the interaction of language and social life” in Gumperz & Hymes (eds)  
+
 Katz, J. J. & Fodor, J. A. (1964), “The Structure of a Semantic Theory” in J. Fodor & J. Katz (eds), *The Structure of Language*, Prentice-Hall, Inc., Englewood Cliff, New Jersey  
+
 Kempson, R. M. (1977), *Semantic Theory*, Cambridge U. P.  
+
 Levinson, S. C. (1983), *Pragmatics*, Cambridge U. P.  
+
 Shakespeare, W. *Othello* in *The Complete Works of William Shakespeare*, P915, Octopus Books Ltd.
 
 
