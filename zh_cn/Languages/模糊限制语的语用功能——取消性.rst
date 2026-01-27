@@ -1,0 +1,289 @@
+模糊限制语的语用功能——取消性
+==================================
+
+孙 建 荣
+
+会话含意(Conversational implicature)是语用学研究中一个极为重要的方面。Grice 认为会话含意有五个特征。第一个特征是会话含意的取消性(Cancellability/defeasibility),即如果有可能在原先某一话语上增加某些前提,那么,某个会话含意便可以被取消。第二个特征是会话含意的非割离性(non-detachability),即会话含意存在于话语的语义内容中,而不是存在于话言的形式上。因此,仅仅用同义词来变换话语的词是不能将会话含意从话语中割离出来的。第三个特征是推测性(calculability),即在交际中,听话者应能根据合作原则和其准则来理解除话语的字面意思以外的实际含意;这样,交际双方都能维护各自推测中的合作关系。第四个特征是非概例性(non-conventionality),即会话含意不是语言短语所表达的那种语法意思,因为只有在首先理解句子的语法意思之后,才可能理解会话含意。所以会话含意不可能属于句子的语法意思。第五个特征是不确定性(indeterminacy),即某个短语的一种意义在一定的语境中可以产生出不同的会话含意。因此,会话含意不象语义那样比较稳定。
+
+Grice 认为会话含意的第一个特征,即取消性,主要是由两个因素引起的。由从句引起的取消性和由语境引起的取消性。笔者认为,除了 Grice 提出的这两个因素外,还应再加上一个因素,即模糊限制语(hedge)在话语中也能减弱或取消会话含意。模糊限制语的这种语用功能是由于它具有模糊语言的特征。笔者以 Grice 著名的会话原则(Cooperative Principle)为出发点,分析模糊限制语在话语中的这种语用功能以及在交际中两者之间的联系。希望这些讨论能对外语学习和教学提供一些参考。
+
+**一、模糊限制语在交际中的使用**
+
+Grice 在其著名的"逻辑与会话"这篇论文中提出了会话含意的五个基本特征;其中最重要的是会话含意的取消性(cancellability)。他指出,"会话含意在特定的情况下可以取消";而这种特定的情况有两种,一种是讲话者通过在原话语上加上的从句来表明或暗示自己要取消或废除原话语中的会话含意。另一种是话语在特定的语境中表明或暗示讲话者想要取消或废除此话语中会话含意的意图。例如,在下列例句中,②是①的会话含意,因为③可以取消②:
+
+① Joetaunted Ralph and Ralph hit him.
+
+② First Joe taunted Ralph and then Ralph hit him.
+
+③ Joe taunted Ralph and Ralph hit him, but not necessarily in that order.
+
+当然,有些语言学家对此还有不同的看法²。本文不再赘述。
+
+除了上面提到的两种情况外,还应有第三种情况:模糊限制语引起的取消现象。模糊限制语取消性的这种功能可以看成是语言中模糊现象的一种重要特点。请看下面的例子²:
+
+④ I kind of want Florin to win the race, since I've bet on him.
+
+⑤ I rather think it's hopeless.
+
+⑥ I suppose that Harry is coming.
+
+⑦ Won't you open the door?
+
+⑧ Really, he probably ran that way.
+
+⑨ Do me a favour, will you?
+
+⑩ That's just how it is, in a way.
+
+⑪ Now, I was wondering if you could do me this.
+
+由于模糊限制词 kind of 在④中的使用,说话者想让 Fiorin 在比赛中获胜愿望的语气程度被削弱或取消了。在⑤和⑥中,模糊限制词 rather 和 suppose 也在不同程度上削弱或取消了句子的命题。这种很有意思但又很有用的现象表明,在话语中,言语行为动词可以做出某种行为或动作来;人们是不能操纵这些行为,动作本身某些真伪价值的。但模糊限制语一可称之为"可取消语"(cancellable hedges)——是可以削弱或取消由言语行为动词所引起的那些行为与动作的,如下列例句:
+
+⑫ This huge plant is owned by a five-yeaar old child, in a way.
+
+⑬ I rather order you to clean up my room.
+
+⑫中的命题很容易被取消。在⑬中,命令听话者去扫除屋子的行为可以由说话者自己取消,而又不会使话语自相矛盾。再如:
+
+⑭ A: Why did you disagree with me on this?
+
+B: I didn't say in the first place I can agree with you on this point, but I said I could agree with you on this point.
+
+正因为 B 利用了模糊限制词 could,因此,B 就能够轻而易举地反驳 A 对于 B 的指控,即 B 没有按照原话语中的命题办事。除了话语中可能包含的会话含意之外,话语中使用这类可取消语能引起另一种不同的会话含意,这种含意并不是想产生能使话语中的命题更清楚易懂的某种言外之力,而只是产生能取消某一命题或拒绝承担讲话者在其话语中完成或担当这个命题的责任等等这么一种言外之力。当听话者意识到这种言外之意时,就必须有所准备,以便作出相应的行动或答覆。在汉语中,也有相同的例子:
+
+⑮ A:今晚学校有电影,你想去吗?
+
+B:晚上有点冷,不太想去。
+
+⑯ A:我想让你弟弟从北京替我带两本书回来。
+
+B:没问题,你要是决定了的话,就告诉他一声。
+
+⑰ 我想他也坏病了。
+
+⑱ 小李,你要不忙的话,来帮我搬一下这张桌子。
+
+⑲ A:你见没有见一个当兵的从这儿跑过去?
+
+B:我见有个人从那个方向跑过去了。
+
+⑳ 我不知道他有没有专门介绍语用学的书。
+
+㉑ A:一个星新内你能完成这件工作吗?
+
+B:试试看。
+
+在上面的例句中,模糊限制语的使用使说话者能在担当与不担当某一种责任之间有选择的余地,同时又能避免别人指责自己的话语不诚心。听话者也知道模糊限制语的这种作用,因而可做好不同反应的准备。例如在⑮中,B 如果后来又去看电影了,A 也不能说 B 当时的回答是假话,因为 B 并没有说"一定不去。"⑯中的 A 只是说有让 B 的弟弟带书的想法,并没有肯定,所以,B在回答时说"你要是决定了的话。"⑰中使用"想"和"也许"是包含有"我不能十分肯定他是否病了"这个潜台词,因而可以在许多场合下以此作为替自己开脱责任的借口。⑱中"你要是不忙的话"这句客气的用法,使听话者在决定要不要帮忙时有选择余地,而不会因不能帮忙"得罪"A。A与B的"面子"都不会因此而伤。³ 同样,⑲中B 的回答一方面"回答"了 A 的问题,另一方面也包括有一种借口:"如果事后那个人不是你们要抓的士兵,也不能说我向你撒谎。因为我只是'看见有个人'而并没有肯定那个人就是你们要抓的士兵。"
+
+在英语中,不同词类中都有模糊限制语(话语的语音、语调也可能存在这种现象,但本文不讨论这方面的情况。)。下面的分类只是很简单、常用的一些模糊限制词/语。
+
+属于短语类的:
+
+sort of, kind of, somewhat 有几分、有点;
+
+in fact 实际上,事实上; in a way 在某些方面;
+
+more or less 或多或少; in a sense 在某种意义上;
+
+in a nutshell 简括地说,一句话; all in all 总的来说;
+
+to some extent 在某种程度上; in some way 在某些方面;
+
+in all 总的; or so 等等;
+
+属于副词类的:
+
+maybe 也许; roughly 粗略地; pretty 相当;
+
+nearly 几乎; really 差不多; quite 相当;
+
+partially 部分地; probably 或许; just 只是;
+
+well 也许; approximately 大概; perhaps 可能;
+
+almost 几乎;
+
+属于动词短语类的:
+
+not beat about the bush 不拐弯抹角……;
+
+to be absolutely clear 很清楚地说……;
+
+to put it more simply 更简单地说……;
+
+to give or take a few 仅举出一些;
+
+to be succint 简洁地说;
+
+属于从句类的:
+
+I can't tell you any more than that it's... 我只能告诉你这些……;
+
+If I can remember correctly 要是我没记错的话;
+
+I should think 我觉得; it seems to me... 似乎……;
+
+I assume 我认为; as it were 似乎,可以说是;
+
+I suppose 假设; I think 我认为;
+
+I'm afraid 恐怕; I believe 我相信;
+
+I wonder 不知道……; as is well known 众所周知;
+
+as you know 你知道;
+
+属于句子时态类的:
+
+I just wondered... 不知道……; I was wondering... 我在想……;
+
+Could you... 您能否……; Would you... 您能不能……;
+
+属于名词短语类的:
+
+a partial answer to that could be... 可以部分地回答这个问题……;
+
+the possibility would be... 也可能是这样……;
+
+the probability is... 有这样的可能性;
+
+还有其它一些类别,如:
+
+Oh God (Christ, Lord, damn) 哦,天哪,上帝;
+
+sorry/hey/oh (I just thought...) 对不起/哎/哦,我刚想起来……;
+
+表示迟疑的象声词 ahhs(啊),umms(嗯)。有时,被动语态也具有模糊限制语的功能,如 it is said(据说);it is assumed(一般认为),等等。
+
+**二、模糊限制语与合作原则以及客气原则的关系**
+
+下面,笔者将从 Grice 的合作原则和 Leech 的客气原则(Politeness Principle)的角度来分析模糊限制语在交际中的使用情况。然后,在这些讨论的基础上,提出模糊限制语的研究在外语学习与教学中实际应用的可能性。
+
+Brown 和 Levinson 认为,"模糊限制语"强调合作的条件必须要满足,或者引起人们对这些条件可能没有满足的注意,或者询问这些条件是否已经满足了。"他们从Grice的四个准则来分析模糊限制语。从质量准则来看,讲话者在话语中使用质量模糊限制词/语,可以使自己对在话语中表达的命题的真实性不负完全责任,例如
+
+㉒ There is some evidence to the effect that...
+
+㉓ To the best of my recollection,...
+
+前面提到的例句⑤和⑦也可以属于这一类。在这几个例句中,some,best,think 以及"想"等模糊限制语在需要的时候和地方都有助于削弱或取消某个会话含意,同时也暗示:因为在说话者看来,他提供的情况只是所储整个情况的一部分,因此,他只对这部分情况的真实价值负责,从而遵守质量准则。听话者根据合作原则认为讲话者在提供情况时是遵守合作原则的。双方都懂得话话的字面意义,这样,听话者就能理解并判断出说话者提供了多少情况。
+
+质量准则与数量准则常常重复,因此这两类模糊限制词/语也常重复。由于取消性语的作用,因而在话语中所产生的相应会话含意暗示,说话者提供的情况并不是所要求的那么完整和准确。这时,听话者通常从他掌握的取消性语的知识中了解他已得到了多少情况,还缺少多少情况。在这个过程中,客气性也起了很大的作用。
+
+从关系准则来看,英语中许多模糊限制语能指示出命题的某些变动,如
+
+This may not be relevant/appropriate but... 这也许没有什么联系/不合适,但......;
+
+By the way,... 顺便说一下; Anyway... 不管怎么说。
+
+Brown 和 Levinson 还将关系准则类的模糊限制语按 Searle 提出的五种话语行为划分出:
+
+㉔ If the door's locked, I have a key. (assertions)
+
+㉕ Did John go to the movies, do you know? (directives)
+
+㉖ I'll definitely do it, if you want. (commissives)
+
+㉗ I'm sorry, if you want to know my feelings. (experessives)
+
+㉘ If we all agree, then, I declare the meeting adjourned. (declaratives)
+
+最后一类是
+
+if you see what I'm getting at. (你知道我说的是什么。
+
+I'm driving at. 我指的是什么。
+
+I mean. 我的意思。);
+
+What I meant was... 我的意思是......;
+
+you see, 你知道;
+
+Now, to be absolutely clear, I want... 现在,更清楚地说,我想......。
+
+在许多场合里,由于这种模糊限制语的本质,它们是常常违反这些推测的,例:
+
+㉙ A: 这样去做恐怕(也许)还可以吧
+
+B: 你是说咱们这样做?
+
+A: 不知道行不行(好不好)。
+
+㉚ This is, would claim, another respect in which linguists have "overgrammaticalized" their data, assuming that...
+
+㉙中A 所用的"恐怕"、"也许"、"还可以吧"违反了质量准则和方式准则,因此引出一个会话含意,即A提的建议只能作为一个权宜之计。如果有何后果,A对此是不负责任的。因此,A 的第一句话中命题的言外之力便被削弱或部分地取消了。在㉚中,作为插入语的模糊限制语 I would claim 可以看成是违反方式准则和质量准则,它部分地削弱陈述句中的命题。如果这个命题后来发现是不完全或不准确,是会引起人们的批评和攻击的。而模糊限制语则帮助说话者"完全地"说出这句话并同时有助于他推卸任何可能强加于他的责任。
+
+在交际中,为什么人们喜欢在间接语中使用模糊限制语呢?仅仅用合作原则来解释是不够的,还需要从交际中的客气概念来寻找答案。Leech 在叙述他提出的客气原则时指出,英语中有些可称为"模糊限制施事语"(hedged performatives)的句子,它们是出现在会话中的言外之知,如:
+
+㉛ May I ask if you're married?
+
+㉜ I must warn you not to discuss this in public.
+
+㉝ We regret to inform you that the aspidistra stands are no longer abtainable.
+
+因为这些句子"可以看成是话语客气的缓和法。"㉛则是暗示技巧⁴的一个例子:该法得到听话者的合作。由于英语有些句子,如上面的㉛,可看成是对于听话者私有权的一种侵犯,"因此,'模糊限制施事语'作为客气的手法来用,是可以理解的。"会话意味着需要交谈双方的默契合作。这也许能解释在英语中作为一种技巧来用的间接问句如 I wonder if you lend me your coat。其会话含意似乎是这样:说话者觉得自己不该问听话者提问,因此,便以一种"回答这个问题不应是你的责任"态度来表示自己对了解此问题回答的兴趣。
+
+再如在老舍的《四世同堂》中,有这么几段对话,瑞宣想鼓励程长顺逃出北平参加抗日工作,但又因其它原因不便直接说出来,便以下列方式告诉顺:
+
+㉞ "是有志气的都该走!"(瑞宣语) "我该走?"(长顺语)
+
+尽管瑞宣没有直接说谁是有志气的人,但长顺却清楚地听出其实际含意。特定的场合、特定的身分、特定的时间使得瑞宣不得不采取这种模糊的话语,以应付因此话语可能产生的任何后果。再如,书中冠家小姐招弟以学戏而日后出头,她唱了一句戏后问大赤包:
+
+㉟ "妈,怎样?"(招弟语) "还好!"(大赤包语)(p.35)
+
+回答是很模糊的;大赤包一来不想露出自己不懂戏,但又想装出懂戏。因此,"还好"模糊限制语的用法使听、说双方都很满意,尽管对"还好"到底指什么并不是很清楚的。有时候,模糊限制语的使用确实能使要表达的意思"模糊"起来,使交际中断。如,当长顺询问瑞宣对他不敢逃出北平参加抗日的看法时,瑞宣的回答使长顺摸不着头脑:
+
+㊱ "邵先生,你不耻笑我不敢走吗?"(长顺语) "咱们都是一路货?"(瑞宣语) "什么?"(长顺语) "求关系。"(瑞宣语)(pp.313-31.)
+
+正因为瑞宣认为自己由于家庭的拖累也没有逃出北平参加抗日,而觉得没有理由去耻笑长顺的软弱。因此,他的回答由于过分模糊而使长顺感到不解。当然,作为读者来说,很容易得到其潜含词,即"我也和你一样,凭什么去取笑你呢?"
+
+这些准则模糊限制语在交际中的作用可以用 Brown 和 Levinson 的话来简单作一总结:
+
+削弱说话者责任的质量模糊限制词可以修饰建议或批评('I think perhaps you should...')、而那些加强说话者责任的则对于许诺句是有益的 ('I absolutely promise to...')。数量模糊限制语可以用来修饰抱怨或请求('Could you make this copy more or less final?')。关系模糊限制语则对修饰帮助或建议等很有用('This may be misplaced, but could you consider...')。而方式准则模糊限制语可用来修饰各种"有伤面子的行为语,"如耻笑('You're not exactly thrifty, if you see what I mean.')。(p.176)
+
+除此之外,还有其它一些在交际中使用模糊限制语的原因,例如人们的职业对于选用这类语有很大影响。⁵
+
+**三、模糊限制语研究的应用意义**
+
+在上面讨论的基础上,可以提出一个不很成熟的结论:会话含意取消性的第三个因素,即模糊限制语的应用,对于全面理解会话含意取消性的特征是不应忽视的。只有将这第三个因素分类分析后,模糊限制语同语言问接用法在交际中的作用才能更好地解释清楚。同时,这对于外语教学与学习也是有很大帮助的。例如,人们观察到,在一些语言中,模糊限制施事语对于命题内容也可以加以限制,如:
+
+㊲ He really did run thal way.
+
+㊳ I tell you sincerely he ran that way.
+
+㊴ I tell you he certainly ran that way.
+
+模糊限制词是修饰行为能力还是修饰命题内容,这在㊲的另外两种表达法㊳和㊴中,是没有多大关系的。但在㊵中,certainly 一词的意思则不同于上面几个词,
+
+㊵ Really, he probably ran that way.
+
+原先修饰能力较强的行为语的副词由于处于句子的嵌入部分,因而会出现它到底是修饰什么的疑问,而引起歧义。最常用的词汇中包括了大量的这种模糊限制语的小品词,但字典中常省去这些解释,在理论上也不宜现对它的研究。
+
+间接性在交际中是一个十分重要的问题。在研究间接性与客气性现象之间的联系时人们注意到,出于"客气"的缘故,说话者与听话者在交际时有意制造"矛盾",这是取得圆满交际常用的一种技巧。学习外语的人常常感到困惑不解,觉得自己在使用、理解间接语语时是在进行一场疯狂的"猜测游戏"活动。他们在这种话动中常常是失败者。另一方面,也许由于不同的文化背景,对什么是交际认识不同,因而对使用间接语言也感困难、不方便。D.Tannen 认为,交际是间接的,话语只包括部分要交际的意思,而大部分则是通过暗示、推论,以及听话者根据语境和背景知识来获得的。至于间接到什么样的程度,这因社会而定。学习英语的人有时不知道 Would you like to come in and sit down? 是真心的邀请,还是请求,是指示句还是用于保持交际性的客套话。在其他一些场合中也能发现这种语用困难,如学习英语的人不知道该怎样客气地结束与他人的交谈。J.Thomas将这种现象称为"语用错误"(pragmatic failure)并指出,"这种语用错误是交叉文化中交际失败的一个很重要,但又被忽视的原因。"由于话言错误最坏不过是表明某个人使用不符合要求的语言,语用错误则反映出某个人作为社会的一员不会使用得体的语言。又因为不很容易在话语表面结构上察觉到语用错误,既使分析出这些语用错误时,也很难解决。在我国英语教学中,对于语言错误是比较注意的,但对语用错误则忽视了,有时根本就没有意识到这类错误。原因之一是对影响外语教学的不同文化区别研究不够。想要造就出有能力的外语人才,不仅要掌握语法,而且还要具备良好的语用知识。本文对模糊限制语在语言中使用现象的观察和研究,正是想从一个侧面说明研究文化差异的重要性。
+
+**参 考 书 目**
+
+Brown, P. & S. Levinson, 1978. 'Universals in language usage: politeness phenomena' in E. Goody (ed.) *Questions and Politeness: Strategies in Social Interaction*.
+
+Grice, H.P. 1975. 'Logic and Conversation' in Cole & Morgao (eds.) *Syntax and Semantics: Speech Acts* New York: Academic Press
+
+Lakoff, R. 1974. 'What you can do with words: politeness, pragmatics, and performatives' in *Berkeley Studies in Syntax and Semantics* I Berkeley: Institute of Human Learning, University of California
+
+Leech, G.H. 1983. *Principles of Pragmatics* London: Longman
+
+Levinson, S.C. 1983. *Pragmatics* Cambridge, Cambridge U.P.
+
+Searle, J.R. 1976. 'The Classification of illocutionary acts,' *Language in Society*
+
+Tannen, D. 1984. 'The pragmatics of cross-cultural communication' *Applied Linguistics* 5/2:193
+
+Thomas, J.A. 1984. 'Cross-cultural discourse as 'unequal encounter': towards a pragmatic analysis' *Applied Linguistics* 5/2:226
+
+何自然 "模糊限制语与言语交际"《外国语》1985年第5期
+
+胡文仲."Why Bother About Culture In ELT?"《中国英语教学国际讨论会"发言稿,1985,广州。
+
+老舍,《四世同堂》(缩写本)1982,北京出版社。
+
+
+*本文发表于《外语教学》（西安外国语学院学报）1986年第2期总第26期*
